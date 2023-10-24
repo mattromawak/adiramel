@@ -1,0 +1,18 @@
+/*index.php css*/
+.btnNavigation
+{
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    padding: 10px 30px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.btnNavigation:hover
+{
+    background-color: transparent;
+    border: 1px solid black;
+    color: black;
+}
